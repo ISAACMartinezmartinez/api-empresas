@@ -1,0 +1,22 @@
+{
+  "empresas": [
+    {
+      "nombre": "Amazon",
+      "pais": "México",
+      "capital_bursatil": "2448228788",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Apple",
+      "pais": "Estados unidos",
+      "capital_bursatil": "2555555"
+    },
+    {
+      "nombre": "Microsoft",
+      "pais": "Estados unidos",
+      "capital_bursatil": "98871844444",
+      "id": 4
+    }
+  ]
+}
