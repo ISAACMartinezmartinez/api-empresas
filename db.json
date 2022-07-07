@@ -7,16 +7,28 @@
       "id": 1
     },
     {
-      "id": 3,
       "nombre": "Apple",
       "pais": "Estados unidos",
-      "capital_bursatil": "2555555"
+      "capital_bursatil": "2555555",
+      "id": 2
     },
     {
       "nombre": "Microsoft",
       "pais": "Estados unidos",
       "capital_bursatil": "98871844444",
+      "id": 3
+    }
+    {
+      "nombre": "Mercado Libre",
+      "pais": "Estados unidos",
+      "capital_bursatil": "82276662",
       "id": 4
+    }
+    {
+      "nombre": "Nintendo",
+      "pais": "Japon",
+      "capital_bursatil": "522574",
+      "id": 5
     }
   ]
 }
